@@ -1,6 +1,5 @@
 -- =========================================================
 -- Poblar catálogos (enumerations) - BD: reclutamiento
--- Seguro de re-ejecutar (idempotente)
 -- =========================================================
 USE reclutamiento;
 
